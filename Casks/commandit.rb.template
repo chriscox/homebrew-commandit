@@ -10,7 +10,7 @@ cask "commandit" do
   url "https://github.com/chriscox/commandit-releases/releases/download/v#{version}/CommandIt-#{version}.dmg",
       verified: "github.com/chriscox/commandit-releases/"
   name "CommandIt"
-  desc "Keyboard-first command palette with on-device AI and MCP"
+  desc "AI-powered command palette and snippet library"
   homepage "https://commandit.ai/"
 
   livecheck do
