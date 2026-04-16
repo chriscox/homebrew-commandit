@@ -4,8 +4,8 @@
 # edit Casks/commandit.rb directly — any manual changes are overwritten
 # on the next release. To change the formula, edit this template instead.
 cask "commandit" do
-  version "1.1.1"
-  sha256 "112acfedf6cc2437e2ef61de8bc1e3467dacca8230f8837bfa66a240b58b2ee2"
+  version "1.1.2"
+  sha256 "3f3f9ee60f1af7f1e2694099c661376ec321d84b8660420dd1e32d63203f4a5b"
 
   url "https://github.com/chriscox/commandit-releases/releases/download/v#{version}/CommandIt-#{version}.dmg",
       verified: "github.com/chriscox/commandit-releases/"
